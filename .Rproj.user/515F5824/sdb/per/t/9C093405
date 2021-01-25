@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1496259772150.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9C093405",
+    "lastKnownWriteTime" : 7596484193276666483,
+    "last_content_update" : 1496259772150,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BA6A7A38",
+        "caption" : "mls",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mls&cache_key=BA6A7A38",
+        "displayedObservations" : 39,
+        "environment" : "",
+        "object" : "mls",
+        "preview" : 0,
+        "totalObservations" : 39,
+        "variables" : 4
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

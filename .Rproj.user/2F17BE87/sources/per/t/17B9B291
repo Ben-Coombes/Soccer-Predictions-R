@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577310221046.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "99098898",
+    "id" : "17B9B291",
+    "lastKnownWriteTime" : 1568230188,
+    "last_content_update" : 1568230188,
+    "path" : "C:/Users/Ben/Desktop/ /Soccer Stats/MLS.R",
+    "project_path" : "MLS.R",
+    "properties" : {
+        "cursorPosition" : "85,36",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

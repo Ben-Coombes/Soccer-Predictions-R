@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552294265455.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3498772209",
+    "id" : "17B463A1",
+    "lastKnownWriteTime" : 1552294595,
+    "last_content_update" : 1552294595388,
+    "path" : "C:/Users/Ben/Desktop/ /Soccer Stats/SerieB.R",
+    "project_path" : "SerieB.R",
+    "properties" : {
+        "cursorPosition" : "315,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

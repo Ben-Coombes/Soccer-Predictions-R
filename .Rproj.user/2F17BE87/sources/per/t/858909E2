@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552294658617.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "858909E2",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1552294658617,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "EDB0244D",
+        "caption" : "Markets",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Markets&cache_key=EDB0244D",
+        "displayedObservations" : 13,
+        "environment" : "",
+        "object" : "Markets",
+        "preview" : 0,
+        "totalObservations" : 13,
+        "variables" : 4
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

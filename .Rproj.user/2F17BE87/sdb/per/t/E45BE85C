@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1502173978585.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E45BE85C",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1502173978585,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1A9C9B1D",
+        "caption" : "Superettan",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Superettan&cache_key=1A9C9B1D",
+        "displayedObservations" : 26,
+        "environment" : "",
+        "object" : "Superettan",
+        "preview" : 0,
+        "totalObservations" : 26,
+        "variables" : 4
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

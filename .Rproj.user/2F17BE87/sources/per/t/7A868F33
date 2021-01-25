@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533983391344.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3190874289",
+    "id" : "7A868F33",
+    "lastKnownWriteTime" : 1581230305,
+    "last_content_update" : 1581230305214,
+    "path" : "C:/Users/Ben/Desktop/ /Soccer Stats/Premier League.R",
+    "project_path" : "Premier League.R",
+    "properties" : {
+        "cursorPosition" : "68,60",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "48"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

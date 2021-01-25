@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554613905211.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1760233792",
+    "id" : "F988388B",
+    "lastKnownWriteTime" : 1554613969,
+    "last_content_update" : 1554613969484,
+    "path" : "C:/Users/Ben/Desktop/ /Soccer Stats/SerieA.R",
+    "project_path" : "SerieA.R",
+    "properties" : {
+        "cursorPosition" : "315,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

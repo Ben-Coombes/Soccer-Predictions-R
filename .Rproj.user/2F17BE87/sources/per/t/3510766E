@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552198331667.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3303251906",
+    "id" : "3510766E",
+    "lastKnownWriteTime" : 1553915703,
+    "last_content_update" : 1553915703040,
+    "path" : "C:/Users/Ben/Desktop/ /Soccer Stats/Ligue1.R",
+    "project_path" : "Ligue1.R",
+    "properties" : {
+        "cursorPosition" : "318,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

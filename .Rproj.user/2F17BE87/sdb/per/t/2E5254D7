@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1514260683245.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2E5254D7",
+    "lastKnownWriteTime" : 28429470863982594,
+    "last_content_update" : 1514260683245,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D486F0CC",
+        "caption" : "PL_picks",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=PL_picks&cache_key=D486F0CC",
+        "displayedObservations" : "13",
+        "environment" : "",
+        "object" : "PL_picks",
+        "preview" : "0",
+        "totalObservations" : "13",
+        "variables" : "4"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

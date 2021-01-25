@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1496106146358.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9125B5E3",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1496106146358,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "90CA4BD2",
+        "caption" : "Eliteserien",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Eliteserien&cache_key=90CA4BD2",
+        "displayedObservations" : 26,
+        "environment" : "",
+        "object" : "Eliteserien",
+        "preview" : 0,
+        "totalObservations" : 26,
+        "variables" : 4
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
